@@ -23,10 +23,10 @@ These workshops will be redone for the Fall 2020 session but in case they're hel
 * Notebooks
   * [Launch Page](https://drive.google.com/file/d/1OMJaYNqvLuAIEi7edD8lvw_zJsaPYkCs/view?usp=sharing)
 
-## CORE Curriculum
+## CORE Notebooks
 * Intro to ML in Medicine (slides,notebooks)
-* From EBM to ML (slides,notebooks)
-* Intro to Linear Regression (slides,notebooks)
-* Testing/Training and Basics of Inference (slides,notebooks)
-* Advanced Linear Regression (slides,notebooks)
-* Logistic Regression (slides,notebooks)
+* From EBM to ML (slides,[notebook](https://colab.research.google.com/drive/1RmRR1VUwzvjSdU0MyzZj0CtR1XuvOU0A?usp=sharing))
+* Intro to Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1u2BdbaUMMoCjtzgpDjtDcm4cGNm1ICxd?usp=sharing))
+* Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
+* Advanced Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1vsyYjRdavXORxEYQXDNMtdYZBnr7Qdxt?usp=sharing))
+* Logistic Regression (slides,notebook)
