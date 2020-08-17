@@ -3,7 +3,7 @@ MedML is a student-driven organization based at Emory/GeorgiaTech focused on bri
 Using an approach that uses a combination of videos, interactive tools, and direct Python code, our goal is to build an environment for medical students to gain hands on learning and problem-solving in ML.
 
 ## What is machine learning?
-Machine Learning (ML) is a fancy name for letting the computer find patters in your data.
+Machine Learning (ML) is a fancy name for letting the computer find patterns in your data.
 As physicians (to-be) we'll rely more and more on ML to tell us what complicated patterns in our patients are worth exploring for diagnostics and treatment.
 
 ## Fall 2020
