@@ -1,5 +1,5 @@
 # MedML
-MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing ML to medical education through STEP1-level medical examples.
+MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing ML to medical education through STEP1-style medical examples.
 Using an approach that uses a combination of videos, interactive tools, and direct Python code, our goal is to build an environment for medical students to gain hands on learning and problem-solving in ML.
 
 ## What is machine learning?
