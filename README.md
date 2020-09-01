@@ -7,7 +7,7 @@ Machine Learning (ML) is a fancy name for letting the computer find patterns in 
 As physicians (to-be) we'll rely more and more on ML to tell us what complicated patterns in our patients are worth exploring for diagnostics and treatment.
 
 ## Fall 2020
-* Intro to ML in Medicine (August 23rd @1pm EDT) [video](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
+* Intro to ML in Medicine (August 23rd @1pm EDT) [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
 * Intro to Python (September 12th @ TBD)
 * EBM and Linear Regressions (September 26 @ TBD)
 * Ethics of ML in Medicine (October 10 @ TBD)
