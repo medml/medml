@@ -1,14 +1,16 @@
 # MedML
-MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing ML to medical education through STEP1-style medical examples.
-Using an approach that uses a combination of videos, interactive tools, and direct Python code, our goal is to build an environment for medical students to gain hands on learning and problem-solving in ML.
+MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing Machine Learning (ML) to medical education through medical examples.
+
+Using a combination of videos and interactive Python code, our goal is to bring ML to medical students in an accessible, fun way. Importantly, we assume no math or coding background: MedML is meant for _everyone_.
 
 ## What is machine learning?
 Machine Learning (ML) is a fancy name for letting the computer find patterns in your data.
-As physicians (to-be) we'll rely more and more on ML to tell us what complicated patterns in our patients are worth exploring for diagnostics and treatment.
+
+As physicians (to-be) we'll rely more and more on ML to tell us what complicated patterns in our patients are worth exploring for **diagnostics and treatment**.
 
 ## Fall 2020
 * Intro to ML in Medicine (August 23rd @1pm EDT) [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
-* Intro to Python (September 12th @ TBD)
+* Intro to Python (September 12th @ TBD)[[video]](https://)
 * EBM and Linear Regressions (September 26 @ TBD)
 * Ethics of ML in Medicine (October 10 @ TBD)
 * Intro to Classification (October 24 @ TBD)
