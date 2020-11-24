@@ -1,4 +1,4 @@
-# Emory MedML
+# MedML @ Emory
 MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing Machine Learning (ML) to medical audiences in an accessible way.
 
 Our goal is simple: empower medical students to effectively use ML in their research and clinical efforts. We rely on a combination of videos, articles, and interactive Python code to give medical students a hands-on way to get familiar with ML and feel more comfortable in using the amazing ML resources available. 
