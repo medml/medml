@@ -1,32 +1,23 @@
-# MedML
-MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing Machine Learning (ML) to medical education through medical examples.
+# Emory MedML
+MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing Machine Learning (ML) to medical audiences in an accessible way.
 
-Using a combination of videos and interactive Python code, our goal is to bring ML to medical students in an accessible, fun way. Importantly, we assume no math or coding background: MedML is meant for _everyone_.
+Our goal is simple: empower medical students to effectively use ML in their research and clinical efforts. We rely on a combination of videos, articles, and interactive Python code to give medical students a hands-on way to get familiar with ML and feel more comfortable in using the amazing ML resources available. 
 
 ## What is machine learning?
-Machine Learning (ML) is a fancy name for letting the computer find patterns in your data.
+Machine Learning (ML) is a fancy name for letting the computer find patterns in your data. Physicians care deeply about patterns, using them to figure out what's wrong with our patient's physiology and how we can fix it to make the feel better. ML is a powerful tool to help us because it can find these patterns in otherwise messy clinical data.
 
-As physicians (to-be) we'll rely more and more on ML to tell us what complicated patterns in our patients are worth exploring for **diagnostics and treatment**.
+## Core curriculum
+* Intro to ML in Medicine [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
+* Intro to Python [[video]](https://www.youtube.com/watch?v=pO8BfxLLY7Y)
+* Testing/Training for Inference [[video]]()
+* Ethics of ML in Medicine [[video]]()
 
-## Fall 2020
-* Intro to ML in Medicine (August 23rd @1pm EDT) [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
-* Intro to Python (September 12th @ TBD)[[video]](https://)
-* EBM and Linear Regressions (September 26 @ TBD)
-* Ethics of ML in Medicine (October 10 @ TBD)
+## Spring 2021 (projected)
+* EBM and Linear Regressions (September 26 @ TBD) [[video]]()
 * Intro to Classification (October 24 @ TBD)
-* Testing/Training for Inference (November 7th @ TBD)
 * Neural Nets and Deep Learning (November 15th @ TBD)
 * Intro Image Processing (December 5th @ TBD)
 * Dynamics and ML (December 19th @ TBD)
-
-## Spring 2020
-In the Spring of 2020 we launched MedML with two workshops.
-These workshops will be redone for the Fall 2020 session but in case they're helpful you can find them here:
-* Videos
-  * [May 23rd Intro to ML](https://www.youtube.com/watch?v=xRZF7s0BioQ)
-  * [May 9th PILOT - Regularized Regression](https://www.youtube.com/watch?v=MJ6edDcfis8)
-* Notebooks
-  * [Launch Page](https://drive.google.com/file/d/1OMJaYNqvLuAIEi7edD8lvw_zJsaPYkCs/view?usp=sharing)
 
 ## CORE Notebooks
 * Intro to ML in Medicine (slides,notebooks)
