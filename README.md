@@ -1,23 +1,25 @@
 # MedML @ Emory
-MedML is a student-driven organization based at Emory/GeorgiaTech focused on bringing Machine Learning (ML) to medical audiences in an accessible way.
+MedML is a student-driven organization based at Emory/GeorgiaTech focused on making Machine Learning (ML) accessible to medical audiences.
 
-Our goal is simple: empower medical students to effectively use ML in their research and clinical efforts. We rely on a combination of videos, articles, and interactive Python code to give medical students a hands-on way to get familiar with ML and feel more comfortable in using the amazing ML resources available. 
+Our approach is simple: empower medical students to effectively use ML in their clinical and research efforts. 
+We use a combination of videos, articles, and interactive Python code to provide a hands-on introduction to ML that aims to make students more comfortable in exploring the amazing ML resources already out there.
 
 ## What is machine learning?
-Machine Learning (ML) is a fancy name for letting the computer find patterns in your data. Physicians care deeply about patterns, using them to figure out what's wrong with our patient's physiology and how we can fix it to make the feel better. ML is a powerful tool to help us because it can find these patterns in otherwise messy clinical data.
+Machine Learning (ML) is a fancy way of saying "let the computer find how my variables are related". 
+Physicians care a lot about patterns, especially physiologic ones, because they can tell us ways to help patients with their illnesses.
+ML, when effectively and ethically used, is a useful way for physicians to learning patterns in otherwise messy clinical data - with or without experiments.
 
 ## Core curriculum
+### Articles
+* Intro to ML [[Medium]](https://medium.com/swlh/an-introduction-to-machine-learning-74d8dfc7e942)
+* Patients and Data: Data as a window [[Medium]](https://virati.medium.com/medml-patient-and-data-part-1-eceabb82758)
+* Patients and Data: Training/Testing patterns [[Medium]](https://virati.medium.com/medml-patient-and-data-part-2-d66f368896b4)
+
+### Videos
 * Intro to ML in Medicine [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
 * Intro to Python [[video]](https://www.youtube.com/watch?v=pO8BfxLLY7Y)
-* Testing/Training for Inference [[video]]()
-* Ethics of ML in Medicine [[video]]()
-
-## Spring 2021 (projected)
-* EBM and Linear Regressions (September 26 @ TBD) [[video]]()
-* Intro to Classification (October 24 @ TBD)
-* Neural Nets and Deep Learning (November 15th @ TBD)
-* Intro Image Processing (December 5th @ TBD)
-* Dynamics and ML (December 19th @ TBD)
+* Testing/Training for Inference [[video]](https://youtu.be/uMacfZ6EiEU)
+* Ethics of ML in Medicine [[pending]]()
 
 ## CORE Notebooks
 * Intro to ML in Medicine (slides,notebooks)
