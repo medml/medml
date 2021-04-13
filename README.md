@@ -22,8 +22,8 @@ ML, when effectively and ethically used, is a useful way for physicians to learn
 * Testing/Training for Inference [[video]](https://youtu.be/uMacfZ6EiEU)
 * Ethics of ML in Medicine [[pending]]
 
-## CORE Notebooks
-### Basic Notebooks
+## Interactive Notebooks
+### Basic ML
 * Intro to ML in Medicine (slides,notebooks)
 * Intro to Python in Medicine (slides, [notebook](https://colab.research.google.com/drive/1eij5s6YoSthXUAWMUJ0-ouydIFK0D_1d?usp=sharing))
 * Logistic Regression (slides,[notebook](https://colab.research.google.com/drive/1Ni4EhRDvoCZWSIRpReePyyvI1lz2Li7P?usp=sharing))
@@ -31,5 +31,5 @@ ML, when effectively and ethically used, is a useful way for physicians to learn
 * Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
 * From EBM to ML (slides,[notebook](https://colab.research.google.com/drive/1RmRR1VUwzvjSdU0MyzZj0CtR1XuvOU0A?usp=sharing))
 
-### Advanced Notebooks
+### Advanced ML
 * Advanced Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1vsyYjRdavXORxEYQXDNMtdYZBnr7Qdxt?usp=sharing))
