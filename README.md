@@ -6,8 +6,9 @@ We use a combination of videos, articles, and interactive Python code to provide
 
 ## What is machine learning?
 Machine Learning (ML) is a fancy way of saying "let the computer find how my variables are related". 
-Physicians care a lot about patterns, especially physiologic ones, because they can tell us ways to help patients with their illnesses.
-ML, when effectively and ethically used, is a useful way for physicians to learning patterns in otherwise messy clinical data - with or without experiments.
+Physicians care a lot about patterns, especially physiologic ones, because they can tell us which patterns we should try to disrupt with treatments.
+
+ML, when effectively and ethically used, is a useful way for physicians to learning patterns in otherwise messy clinical data - with or without experiments or large sample sizes.
 
 ## Core curriculum
 ### Articles
