@@ -25,6 +25,7 @@ ML, when effectively and ethically used, is a useful way for physicians to learn
 ## CORE Notebooks
 ### Basic Notebooks
 * Intro to ML in Medicine (slides,notebooks)
+* Intro to Python in Medicine (slides, [notebook](https://colab.research.google.com/drive/1eij5s6YoSthXUAWMUJ0-ouydIFK0D_1d?usp=sharing))
 * Logistic Regression (slides,[notebook](https://colab.research.google.com/drive/1Ni4EhRDvoCZWSIRpReePyyvI1lz2Li7P?usp=sharing))
 * Intro to Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1u2BdbaUMMoCjtzgpDjtDcm4cGNm1ICxd?usp=sharing))
 * Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
