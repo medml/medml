@@ -19,7 +19,7 @@ ML, when effectively and ethically used, is a useful way for physicians to learn
 * Intro to ML in Medicine [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
 * Intro to Python [[video]](https://www.youtube.com/watch?v=pO8BfxLLY7Y)
 * Testing/Training for Inference [[video]](https://youtu.be/uMacfZ6EiEU)
-* Ethics of ML in Medicine [[pending]]()
+* Ethics of ML in Medicine [[pending]]
 
 ## CORE Notebooks
 ### Basic Notebooks
