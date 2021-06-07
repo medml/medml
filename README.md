@@ -15,7 +15,7 @@ We use a combination of videos, articles, and interactive Python code to provide
 * Intro to ML in Medicine [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
 * Intro to Python [[video]](https://www.youtube.com/watch?v=pO8BfxLLY7Y)
 * Testing/Training for Inference [[video]](https://youtu.be/uMacfZ6EiEU)
-* Ethics of ML in Medicine [[pending]]
+* Ethics of ML in Medicine [[slides]](https://docs.google.com/presentation/d/1aH_g4bTYGZnFdfHnL5ns4THHqhL-c4gcPGpOC2vLmk4/edit?usp=sharing)
 
 ## Interactive Notebooks
 ### Basic ML
