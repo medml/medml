@@ -9,7 +9,7 @@ Especially physicians that understand the capabilities, and limitations, of ML.
 
 ### Approach
 Our approach is simple: get hands on as quick as possible.
-We use a combination of [videos](###Videos), [articles](###Articles), and interactive Python [code](##Interactive Notebooks) to give a hands-on introduction to ML that aims to make students more comfortable in exploring the amazing ML resources already out there.
+We use a combination of [videos](#videos), [articles](#articles), and interactive Python [code](#interactive-notebooks) to give a hands-on introduction to ML that aims to make students more comfortable in exploring the amazing ML resources already out there.
 
 ## Core curriculum
 ### Videos
