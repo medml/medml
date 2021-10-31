@@ -24,6 +24,9 @@ We use a combination of [videos](#videos), [articles](#articles), and interactiv
 * Patients and Data: Training/Testing patterns [[Medium]](https://virati.medium.com/medml-patient-and-data-part-2-d66f368896b4)
 
 ## Interactive Notebooks
+These notebooks use Python code to illustrate concepts in ML.
+Feel free to use that code as a foundation for your own projects if you'd like! ([What is open soure software?](https://opensource.com/resources/what-open-source))
+
 ### Basic ML
 * Intro to ML in Medicine (slides,notebooks)
 * Intro to Logistic Regression (slides,[notebook](https://colab.research.google.com/drive/1Ni4EhRDvoCZWSIRpReePyyvI1lz2Li7P?usp=sharing))
