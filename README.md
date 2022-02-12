@@ -15,6 +15,7 @@ We use a combination of [videos](#videos), [articles](#articles), and interactiv
 ### Videos
 * Intro to ML in Medicine [[video]](https://www.youtube.com/watch?v=7HUMJ2xYOJw)
 * Intro to Python [[video]](https://www.youtube.com/watch?v=pO8BfxLLY7Y)
+* Working with Python Notebooks [[video]]()
 * Testing/Training for Inference [[video]](https://youtu.be/uMacfZ6EiEU)
 * Ethics of ML in Medicine [[slides]](https://docs.google.com/presentation/d/1aH_g4bTYGZnFdfHnL5ns4THHqhL-c4gcPGpOC2vLmk4/edit?usp=sharing)
 
@@ -25,15 +26,17 @@ We use a combination of [videos](#videos), [articles](#articles), and interactiv
 
 ## Interactive Notebooks
 These notebooks use Python code to illustrate concepts in ML.
-Feel free to use that code as a foundation for your own projects if you'd like! ([What is open soure software?](https://opensource.com/resources/what-open-source))
+Feel free to use that code as a foundation for your own projects if you'd like! 
+([What is open soure software?](https://opensource.com/resources/what-open-source))
 
 ### Basic ML
+* Intro to Python in Medicine (slides, [notebook](https://colab.research.google.com/drive/1eij5s6YoSthXUAWMUJ0-ouydIFK0D_1d?usp=sharing))
 * Intro to ML in Medicine (slides,notebooks)
+* Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
 * Intro to Logistic Regression (slides,[notebook](https://colab.research.google.com/drive/1Ni4EhRDvoCZWSIRpReePyyvI1lz2Li7P?usp=sharing))
 * Intro to Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1u2BdbaUMMoCjtzgpDjtDcm4cGNm1ICxd?usp=sharing))
-* Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
 
 ### Advanced ML
-* Intro to Python in Medicine (slides, [notebook](https://colab.research.google.com/drive/1eij5s6YoSthXUAWMUJ0-ouydIFK0D_1d?usp=sharing))
+
 * Advanced Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1vsyYjRdavXORxEYQXDNMtdYZBnr7Qdxt?usp=sharing))
 * From EBM to ML (slides,[notebook](https://colab.research.google.com/drive/1RmRR1VUwzvjSdU0MyzZj0CtR1XuvOU0A?usp=sharing))
