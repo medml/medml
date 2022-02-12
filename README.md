@@ -31,12 +31,11 @@ Feel free to use that code as a foundation for your own projects if you'd like!
 
 ### Basic ML
 * Intro to Python in Medicine (slides, [notebook](https://colab.research.google.com/drive/1eij5s6YoSthXUAWMUJ0-ouydIFK0D_1d?usp=sharing))
-* Intro to ML in Medicine (slides,notebooks)
 * Testing/Training and Basics of Inference (slides,[notebook](https://colab.research.google.com/drive/1HvnJPVCnQmCV6gHwGXFBhpw-xyfR6eV9?usp=sharing))
 * Intro to Logistic Regression (slides,[notebook](https://colab.research.google.com/drive/1Ni4EhRDvoCZWSIRpReePyyvI1lz2Li7P?usp=sharing))
 * Intro to Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1u2BdbaUMMoCjtzgpDjtDcm4cGNm1ICxd?usp=sharing))
 
 ### Advanced ML
-
 * Advanced Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1vsyYjRdavXORxEYQXDNMtdYZBnr7Qdxt?usp=sharing))
 * From EBM to ML (slides,[notebook](https://colab.research.google.com/drive/1RmRR1VUwzvjSdU0MyzZj0CtR1XuvOU0A?usp=sharing))
+* Neural Networks (slides, [notebooks]())
