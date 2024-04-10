@@ -38,4 +38,4 @@ Feel free to use that code as a foundation for your own projects if you'd like!
 ### Advanced ML
 * Advanced Linear Regression (slides,[notebook](https://colab.research.google.com/drive/1vsyYjRdavXORxEYQXDNMtdYZBnr7Qdxt?usp=sharing))
 * From EBM to ML (slides,[notebook](https://colab.research.google.com/drive/1RmRR1VUwzvjSdU0MyzZj0CtR1XuvOU0A?usp=sharing))
-* Neural Networks (slides, [notebooks]())
+* Neural Networks (slides, [notebooks](https://colab.research.google.com/drive/1wRFboHDimJ-YQtac5mUV1FM7cG0qaR2b?usp=sharing))
